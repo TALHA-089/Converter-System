@@ -1,0 +1,8 @@
+﻿  Conversion system.cpp
+F:\Zohaib Project\Zohaib Project\Conversion system.cpp(740,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Zohaib Project\Zohaib Project\Conversion system.cpp(749,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Zohaib Project\Zohaib Project\Conversion system.cpp(761,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\Zohaib Project\Zohaib Project\Conversion system.cpp(920,30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\Zohaib Project\Zohaib Project\Conversion system.cpp(947,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Zohaib Project\Zohaib Project\Conversion system.cpp(966,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Zohaib Project.vcxproj -> F:\Zohaib Project\x64\Debug\Zohaib Project.exe
